@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Gautam Deo Prasad,An aspiring Java full stack developer with specialization in java backend developer with a passion for learning with an endless suppy of optimism and curiosity.
+
