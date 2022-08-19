@@ -1,4 +1,4 @@
-<p align="center"><img  alt="Coder GIF" height=400 width=1000 src="https://miro.medium.com/max/1280/1*KaUF6UJgPdYyv1WxDXdXnA.gif"></p>
+<p align="center"><img  alt="Coder GIF" height=400 width=100% src="https://miro.medium.com/max/1280/1*KaUF6UJgPdYyv1WxDXdXnA.gif"></p>
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gautamdeorazz&label=Profile%20views&color=0e75b6&style=flat" alt="gautamdeorazz" /> </p>
 <h1 align="center">Hi 👋, I'm Gautam Deo Prasad</h1>
