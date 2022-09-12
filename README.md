@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on [Masai School as a Student](https://github.com/masai-course/Gautam_fw18_1120)
+- 🔭 I’m currently studying in [Masai School](https://github.com/masai-course/Gautam_fw18_1120)
 
 - 🌱 I’m currently learning **Spring Boot ,Hibernate, Spring, Aws**
 
@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Backend Projects**
 
-- 👨‍💻 All of my projects are available at [https://gautam-portfolio-234.netlify.app/](https://gautam-portfolio-234.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gautam-portfolio-234.netlify.app/](https://gautamdeo-portfolio.netlify.app/)
 
 - 💬 Ask me about **Java, Hibernate,Html,CSS,JavaScript,Springboot,Spring,Aws,Maven**
 
