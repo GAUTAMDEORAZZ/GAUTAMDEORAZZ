@@ -1,6 +1,5 @@
 
-<p align="center"><img  alt="Coder GIF" height=400 width=100% src="https://miro.medium.com/max/1280/1*KaUF6UJgPdYyv1WxDXdXnA.gif"></p>
-<br>
+
 <h1 align="center">Hi 👋, I'm Gautam Deo Prasad</h1>
 <h3 align="center">An aspiring software development Engineer with specialization in java backend developer with a passion for learning with an endless supply of optimism and curiosity.</h3>
 <p align="right"> <img alt="Coder GIF" height=300 width=550 src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" /></p>
