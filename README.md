@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Backend Projects**
 
-- 👨‍💻 All of my projects are available at [https://gautam-portfolio-234.netlify.app/](https://gautamdeo-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gautamdeo-portfolio.netlify.app/](https://gautamdeo-portfolio.netlify.app/)
 
 - 💬 Ask me about **Java, Hibernate,Html,CSS,JavaScript,Springboot,Spring,Aws,Maven**
 
