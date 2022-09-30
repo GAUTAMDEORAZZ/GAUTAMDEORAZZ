@@ -1,4 +1,4 @@
-<p align="left"> <img alt="Coder GIF" height=300 width=100% src="https://github.com/GAUTAMDEORAZZ/GAUTAMDEORAZZ/blob/main/VID-20220930-WA-1664553524280.gif" /></p>
+<p align="left"> <img alt="Coder GIF" height=340 width=90% src="https://github.com/GAUTAMDEORAZZ/GAUTAMDEORAZZ/blob/main/VID-20220930-WA-1664553524280.gif" /></p>
 <br>
 
 
