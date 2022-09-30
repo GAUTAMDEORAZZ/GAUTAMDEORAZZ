@@ -1,9 +1,10 @@
-<p align="center"> <img alt="Coder GIF" height=400 width=100% src="https://github.com/GAUTAMDEORAZZ/GAUTAMDEORAZZ/blob/main/VID-20220930-WA-1664553524280.gif" /></p>
+<p align="center"> <img alt="Coder GIF" height=300 width=100% src="https://github.com/GAUTAMDEORAZZ/GAUTAMDEORAZZ/blob/main/VID-20220930-WA-1664553524280.gif" /></p>
 <br>
 
 
 <h1 align="center">Hi 👋, I'm Gautam Deo Prasad</h1>
-<h3 align="center">An aspiring software development Engineer with specialization in java backend developer with a passion for learning with an endless supply of optimism and curiosity.</h3>
+<h3 align="center">An aspiring software development Engineer with specialization in java backend developer with a passion for learning with an endless supply of optimism and curiosity,who tries to be better each day.I have a keen interest in building end-to-end products and solve real-life problems and make life easier for people.</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamdeorazz&label=Profile%20views&color=0e75b6&style=flat" alt="gautamdeorazz" /> </p>
